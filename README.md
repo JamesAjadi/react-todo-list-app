@@ -1,3 +1,4 @@
+![Web capture_20-4-2024_23353_localhost](https://github.com/JamesAjadi/react-todo-list-app/assets/85445911/d0c39ab4-9e21-421a-b757-7a78aba68951)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
